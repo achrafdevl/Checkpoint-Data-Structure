@@ -18,8 +18,8 @@ function dot_product(v1, v2) {
   }
   
   // Example usage:
-  const vector1 = [3, 1, 7, 9];
-  const vector2 = [2, 4, 1, 9];
+  const vector1 = [3, 1, 6, 9];
+  const vector2 = [2, 4, 1, 5];
   
   if (are_vectors_orthogonal(vector1, vector2)) {
     console.log("Vectors are orthogonal.");
